@@ -186,8 +186,3 @@ It reflects my ability to integrate multiple cloud and open-source tools to deli
 
 ---
 
-## Contact Me  
-
-If you'd like to discuss this project or connect on data engineering topics:  
-
-- **LinkedIn:** [Tejodhay Bonam](https://www.linkedin.com/in/tejodhay-bonam-66b3661b0/)  
